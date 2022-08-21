@@ -1,10 +1,12 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am Shariful from Bangladesh. I am working as a research assistant @ University of North Florida.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fnushariful&label=Profile%20views&color=0e75b6&style=flat" alt="fnushariful" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fnushariful" alt="fnushariful" /></a> </p>
 
-- 🔭 I’m currently working on **Computation Geometry Algorithomic**
+- 🔭 I’m currently working on [Computational Geometric Algorithm Engineering.](https://github.com/fnushariful/FastSparseSpanner)
+
+- 🌱 I’m currently learning **Data Structures & Algorithms, Competitive Programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

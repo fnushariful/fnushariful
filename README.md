@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Fast Sparse Spanner](https://github.com/fnushariful/FastSparseSpanner)
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Competitive Programming.**
-
 - 👯 I’m collaborating on [iRRTX : Online Informed Sampling-based Path Planning](https://github.com/fnushariful/Spring-22-Adv.-AI-Project)
+
+- 🌱 I’m currently learning **Data Structures & Algorithms, Competitive Programming.**
 
 
 <h3 align="left">Connect with me:</h3>

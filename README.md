@@ -58,7 +58,7 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
 	</a>
 </p>
-<p>&nbsp; 
+<p style="background-color:Tomato;" >&nbsp; 
   style="background-color:Tomato;"
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=fnushariful&show_icons=true&locale=en" alt="fnushariful" />
 </p>

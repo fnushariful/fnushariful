@@ -1,4 +1,4 @@
-<h4 align="center">I am Shariful from Bangladesh. I am working as a research assistant @ University of North Florida(UNF).</h4>
+<h4 align="center">I am Shariful. I am working as a research assistant @ University of North Florida(UNF).</h4>
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=fnushariful&label=Profile%20views&color=0e75b6&style=flat" alt="fnushariful" />
 </p>

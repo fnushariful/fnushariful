@@ -3,7 +3,7 @@
 	<img src="https://komarev.com/ghpvc/?username=fnushariful&label=Profile%20views&color=0e75b6&style=flat" alt="fnushariful" />
 </p>
 
-- 🔭 I’m currently working on [Fast Sparse Spanner](https://github.com/fnushariful/FastSparseSpanner)
+- 🔭 I’m currently working on Power BI, .Net Technology and [Fast Sparse Spanner](https://github.com/fnushariful/FastSparseSpanner)
 
 - 👯 I’m collaborating on [iRRTX : Online Informed Sampling-based Path Planning](https://github.com/fnushariful/Spring-22-Adv.-AI-Project)
 
